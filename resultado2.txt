@@ -1,0 +1,24 @@
+Magic Quadrant for Server Virtualization Platforms
+CHALLENGERS | LEADERS
+Nutanix
+Microsoft
+Broadcom (VMware)
+HPE
+Red Hat
+Oracle
+Canonical
+SUSE
+H3C Technologies
+IDT SYSTEM
+Sangfor Technologies
+Platform9
+Proxmox
+Vates
+VergeIO
+Scale Computing
+Citrix
+NICHE PLAYERS | VISIONARIES
+COMPLETENESS OF VISION
+ABILITY TO EXECUTE
+As of August 2026 | Gartner, Inc
+Gartner

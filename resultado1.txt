@@ -1,0 +1,35 @@
+inbix - MBA EM IA
+GRADE CURRICULAR
+MBA em Inteligência Artificial para Inovação: disciplinas obrigatórias e optativas.
+
+OBRIGATÓRIAS (12 disciplinas)
+01 IA em ação: Transformação Digital com IA - Rafael Bispo
+02 Inovação e Transformação Digital - Albino Szesz Junior
+03 Pensamento Analítico e Resolução de Problemas - Lucas Josefovicz
+04 Engenharia de Prompts para IA - Dionatan Hovoruski
+05 Workshop de Ferramentas de IA - Rafael Bispo
+06 Inteligência Artificial e suas Aplicações - Diulhio Candido de Oliveira
+07 Arquitetura de Dados para IA - Rodrigo Nogueira
+08 Liderança e Gestão de Mudanças na Era da IA - Andressa Tavares Bach
+09 Ética, Implicações Sociais e Regulamentação da IA - Amanda Majinski de Moraes
+10 IA em ação: Empreendendo com IA - Rafael Bispo
+11 Cultura de Inovação e Implementação Prática de IA - Leopoldo Suarez
+12 IA em ação: Aplicação de Ferramentas de IA em Negócios - Rafael Bispo
+
+OPTATIVAS (16 disciplinas)
+01 Ferramentas de IA para Não-Técnicos - Priscila Dorado Gaertner
+02 IA em Agronegócios - Aline da Silva Souza
+03 IA na Indústria (Cadeia de Suprimentos e Logística) - Rodrigo Acras
+04 IA em Serviços (Marketing e Relacionamento com o Cliente) - Fernando Ribeiro
+05 IA no Varejo - Rodrigo Brandão
+06 Empreendedorismo e IA - Cassiano M. Piekarski & Lucione Döll
+07 Lovable - Caio Fernando B. Cruz
+08 Dados, IA e Automação - Rodrigo Rezende dos Santos
+09 Agentes de IA - Felipe Lima Fuhrmann
+10 IA e Finanças - Gustavo Barbisan
+11 n8n - Fernando Ribeiro
+12 IA em Saúde - Dimas Francisco Silva Jr.
+13 Copilot - Henrique Matias de Freitas Oliveira
+14 OpenAI - Rodrigo Adamshuk Silva
+15 Claude - Cassiano Moro Piekarski
+16 Do AI Studio ao Antigravity - Fabiana Luz
